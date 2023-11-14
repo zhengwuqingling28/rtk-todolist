@@ -8,13 +8,15 @@ Using React (Hook), Redux-toolkit, antd.
 1.  **Step 1.**
     Clone the project
     ```sh
-    # clone the project to your local computer
     git clone https://github.com/zhengwuqingling28/rtk-todolist.git
     ```
 1.  **Step 2.**
-    Run app
+    Install node_modules
     ```sh
-    # go to todolist
     npm i
+    ```
+1.  **Step 3.**
+    Run vite react project
+    ```sh
     npm run dev
     ```
